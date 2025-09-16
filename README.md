@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Dream-Shop
+Dream Shop is a modern e-commerce web application built with React JS, designed to provide users with a smooth and engaging shopping experience. Customers can browse products, view details, and place orders seamlessly.
+>>>>>>> dc0ba44f890481977f4a7da896bc0f90036c7342
