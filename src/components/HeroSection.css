@@ -1,0 +1,22 @@
+.hero-section {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 4rem 0; /* Padding for the section */
+    text-align: left; /* Left align text */
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem; /* Large heading size */
+    color: #333; /* Dark text color */
+  }
+  
+  .hero-section p {
+    font-size: 1.25rem; /* Medium text size */
+    color: #666; /* Grey text color */
+  }
+  
+  .hero-image {
+    max-width: 100%; /* Responsive image */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 0.5rem; /* Rounded corners for the image */
+  }
+  

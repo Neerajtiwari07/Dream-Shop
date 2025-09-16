@@ -1,0 +1,39 @@
+.checkout-container {
+    max-width: 600px; /* Limit the max width for better readability */
+    margin: 2rem auto; /* Center the container with margin */
+    padding: 1.5rem; /* Padding around the content */
+    border-radius: 0.5rem; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    background-color: #ffffff; /* White background */
+  }
+  
+  .checkout-container h3 {
+    text-align: center; /* Center the heading */
+    margin-bottom: 1rem; /* Space below the heading */
+    color: #333; /* Darker color for the heading */
+  }
+  
+  .checkout-container p {
+    text-align: center; /* Center the total price text */
+    font-size: 1.25rem; /* Increase font size for total */
+    color: #007bff; /* Bootstrap primary color for emphasis */
+  }
+  
+  .checkout-form {
+    margin-top: 1.5rem; /* Space between heading and form */
+  }
+  
+  .checkout-form .form-group {
+    margin-bottom: 1.5rem; /* Space below each form group */
+  }
+  
+  .checkout-form button {
+    width: 100%; /* Full width for the button */
+  }
+  
+  @media (max-width: 576px) {
+    .checkout-container {
+      padding: 1rem; /* Adjust padding for small screens */
+    }
+  }
+  

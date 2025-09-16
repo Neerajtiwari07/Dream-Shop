@@ -1,0 +1,39 @@
+.home-container {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 20px; /* Padding around the container */
+    min-height: 100vh; /* Make sure the container covers full height */
+  }
+  
+  h2 {
+    color: #343a40; /* Darker color for heading */
+  }
+  
+  .card {
+    border: none; /* Remove default card border */
+    border-radius: 8px; /* Rounded corners for the card */
+  }
+  
+  .card-body {
+    padding: 20px; /* Padding for the card body */
+  }
+  
+  .card-title {
+    font-size: 1.5rem; /* Larger title font size */
+  }
+  
+  .card-text {
+    font-size: 1.25rem; /* Larger text size for product info */
+  }
+  
+  .product-list {
+    display: flex; /* Align items in a flexbox */
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    justify-content: space-between; /* Space items evenly */
+  }
+  
+  .product-item {
+    margin-bottom: 20px; /* Space between product items */
+    flex: 1 0 21%; /* Responsive item sizing (4 items per row) */
+    max-width: 22%; /* Limit maximum width for product items */
+  }
+  

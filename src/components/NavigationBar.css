@@ -1,0 +1,34 @@
+.custom-navbar {
+    background-color: #343a40; /* Dark background color */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .custom-navbar .nav-link {
+    color: #ffffff; /* White text color */
+    margin-left: 15px; /* Space between links */
+    transition: color 0.3s; /* Smooth transition */
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #ffd700; /* Change color on hover */
+  }
+  
+  .custom-navbar .navbar-brand {
+    font-size: 1.5rem; /* Brand font size */
+    font-weight: bold; /* Brand bold text */
+  }
+  
+  .custom-navbar .navbar-toggler {
+    border: none; /* Remove border */
+  }
+  
+  .custom-navbar .navbar-toggler-icon {
+    background-color: #ffffff; /* Change toggle icon color */
+  }
+  
+  @media (max-width: 768px) {
+    .custom-navbar .nav-link {
+      margin: 0; /* Remove margin on smaller screens */
+    }
+  }
+  
